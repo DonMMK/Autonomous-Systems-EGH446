@@ -2,17 +2,17 @@
 This repository contains the code for EGH446 which is a part of the core curriculum of the Computer and Software Systems Major. 
 
 ### Topics Covered 
-Week 1:  
-Week 2:   
-Week 3:  
-Week 4:  
-Week 5:  
-Week 6:  
-Week 7:  
-Week 8:  
-Week 9:  
-Week 10:   
-Week 11: -  
+Week 1: Introduction to EGH446. Topics on guidance, perception, localisation, control and coordinate frames.  
+Week 2: System modelling and state representation.   
+Week 3: Parameter Estimation and Kalman Filter.  
+Week 4: Kalman Filter (continued).  
+Week 5: PNGC, guidance and disturbance rejection.  
+Week 6: Route and path planning.  
+Week 7: Optimisation and cost functions.  
+Week 8: Sensor, sensing and perception.  
+Week 9: Camera, modelling and related algorithms.  
+Week 10: Decision making.   
+Week 11: Intro to reinforcement learning.  
 Week 12: -  
 Week 13: -  
 
